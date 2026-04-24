@@ -104,7 +104,7 @@ The prototype focuses on **clarity, accessibility, and calming user experience**
 
 ### 🧪 Test
 
-The prototype was tested with multiple users to evaluate usability and effectiveness.
+The prototype was tested with 7 users to evaluate usability and effectiveness.
 
 **Testing Process:**
 
