@@ -1,0 +1,33 @@
+Wireframe : Smart Hospital Queue Solution App
+
+Wireframes (App Prototype & UI Design)
+The Wireframes folder contains the complete visual representation and prototype of the Smart Hospital Queue Management App.
+
+This section showcases how the designed solution is translated into an interactive and user-friendly interface aimed at improving
+the patient waiting experience.
+
+The prototype was designed using Figma, and the screens have been organized and presented using Canva for better visualization.
+These wireframes demonstrate the key stages of user interaction, from login to receiving real-time updates and engaging with stress reducing features.
+
+Key screens included in the prototype are:
+1. Login Screen – User enters basic details to access the system.
+2. Dashboard / Queue Status Screen – Displays real-time queue position, waiting time, and progress.
+3. Quick Actions Screen – Provides access to Distraction Hub, Relax Mode, and Feedback.
+4. Notifications Screen – Shows alerts such as queue updates and upcoming turn notifications.
+5. Settings Screen – Allows users to manage notification preferences.
+
+The design emphasizes:
+1. Simple and intuitive navigation.
+2. Real-time updates to reduce uncertainty.
+3. Calming UI elements to reduce stress.
+4. Accessibility for users of different age groups.
+
+The prototype successfully integrates all compulsory features,including queue tracking, distraction hub, silent notifications,
+mood based interactions, and feedback system.
+
+NOTE: I KINDLY REQUEST YOU TO COPY PASTE THE LINK GIVEN BELOW:
+
+1. View Wireframe Screens (Canva):
+https://canva.link/2f7uer72ab7zvqt
+2. View Interactive Prototype(Figma):
+https://taupe-act-85796315.figma.site/login
